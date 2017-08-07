@@ -39,3 +39,6 @@ This R function takes an input array or list of form names, an array or list of 
 20 projectA-172 projectA-114 projectA-128
 > 
 ```
+
+### Credit/comments/questions
+If you find this helpful or have any comments/questions, please let me know by email at katharinemarielee@gmail.com !
