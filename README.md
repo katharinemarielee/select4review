@@ -41,4 +41,4 @@ This R function takes an input array or list of form names, an array or list of 
 ```
 
 ### Credit/comments/questions
-If you find this helpful or have any comments/questions, please let me know by email at katharinemarielee@gmail.com !
+If you find this helpful or have any comments/questions, please let me know.
