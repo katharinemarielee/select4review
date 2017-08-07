@@ -28,15 +28,3 @@ select4review <- function(formNames, listIDs, percent2Check){
  names(dataOut) <- formNames
   return(dataOut)
 }
-
-formNames <- c("form1", "form2", "form3")
-myIDs <- c(101:199)
-myIDs <- paste0("projectA-",myIDs)
-
-test <- select4review(formNames, myIDs, 10)
- 
-test
-
-devtools::install_github("ResourcefulSquirrel")
-
-install.packages("devtools")
